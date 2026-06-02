@@ -14,7 +14,6 @@ I'm **Prabhandini Vishtamsetti**, a passionate **Senior SDET (Software Developme
 
 - 🔭 Currently working on cutting-edge **Pega Testing** and **QA Ops** frameworks
 - 🌱 Always exploring new tools — currently deep-diving into **GitHub Copilot** & **AI-assisted testing**
-- 📝 I share my knowledge on **YouTube**, **Medium**, and **Instagram**
 - ⚡ Fun fact: I find bugs for fun — even outside of work!
 - 🎯 Motto: *"Quality is never an accident; it is always the result of intelligent effort."*
 - 🌟 Believer in clean code, robust pipelines, and strong coffee ☕
