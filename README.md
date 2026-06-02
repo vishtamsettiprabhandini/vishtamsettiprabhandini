@@ -54,9 +54,6 @@ I'm **Prabhandini Vishtamsetti**, a passionate **Senior SDET (Software Developme
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishtamsettiprabhandini)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@vishtamsettiprabhandini)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vishtamsettiprabhandini)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vishtamsettiprabhandini)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishtamsettiprabhandini)
 
 </div>
@@ -105,7 +102,6 @@ I'm **Prabhandini Vishtamsetti**, a passionate **Senior SDET (Software Developme
 <div align="center">
 
 🔗 **LinkedIn:** [linkedin.com/in/vishtamsettiprabhandini](https://www.linkedin.com/in/vishtamsettiprabhandini)
-📺 **YouTube:** [@vishtamsettiprabhandini](https://www.youtube.com/@vishtamsettiprabhandini)
 ✍️ **Medium:** [@vishtamsettiprabhandini](https://medium.com/@vishtamsettiprabhandini)
 📸 **Instagram:** [@vishtamsettiprabhandini](https://www.instagram.com/vishtamsettiprabhandini)
 
