@@ -102,8 +102,6 @@ I'm **Prabhandini Vishtamsetti**, a passionate **Senior SDET (Software Developme
 <div align="center">
 
 🔗 **LinkedIn:** [linkedin.com/in/vishtamsettiprabhandini](https://www.linkedin.com/in/vishtamsettiprabhandini)
-✍️ **Medium:** [@vishtamsettiprabhandini](https://medium.com/@vishtamsettiprabhandini)
-📸 **Instagram:** [@vishtamsettiprabhandini](https://www.instagram.com/vishtamsettiprabhandini)
 
 ---
 
