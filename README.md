@@ -104,6 +104,4 @@ I integrate automation into CI/CD pipelines (GitLab, Jenkins), manage execution 
 
 *"The goal of testing is not to find bugs, but to ensure quality is built in."* 🚀
 
-**Open to collaborations, mentoring, and knowledge sharing!** 💡
-
 </div>
