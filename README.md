@@ -10,13 +10,11 @@
 
 ## 👩‍💻 About Me
 
-I'm **Prabhandini Vishtamsetti**, a passionate **Senior SDET (Software Development Engineer in Test)** with **7+ years** of experience delivering high-quality software through automation, performance testing, and QA best practices.
+I'm **Prabhandini Vishtamsetti**, a passionate **Senior SDET (Software Development Engineer in Test)** with **7+ years** of experience delivering high-quality software through automation, performance testing, and QA best practices for Pega PRPC and web based applications. I specialize in end to end test automation using Selenium WebDriver, Java, Cucumber BDD and TestNG with deep experience in API testing (Rest Assured, Postman) and performance testing (JMeter).  I have also upskilled in Playwright to modernize and enhance automation frameworks with faster, more reliable execution.
 
-- 🔭 Currently working on cutting-edge **Pega Testing** and **QA Ops** frameworks
-- 🌱 Always exploring new tools — currently deep-diving into **GitHub Copilot** & **AI-assisted testing**
-- ⚡ Fun fact: I find bugs for fun — even outside of work!
-- 🎯 Motto: *"Quality is never an accident; it is always the result of intelligent effort."*
-- 🌟 Believer in clean code, robust pipelines, and strong coffee ☕
+At Cognizant, I owned the design and development of a Cucumber automation framework from scratch built as a reusable library deployed across multiple client engagements. I automated complex IVR, batch file, and campaign workflows for a major Project, reducing manual validation effort by 30 to 40% and maintaining defect leakage below 2-3% across releases. 
+
+I integrate automation into CI/CD pipelines (GitLab, Jenkins), manage execution visibility through PractiTest and ReportPortal and leverage GitHub Copilot and GenAI assisted techniques to accelerate test development. I thrive in Agile environments and have experience mentoring teams and leading knowledge transitions. 
 
 ---
 
